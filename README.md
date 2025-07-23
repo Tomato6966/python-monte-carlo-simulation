@@ -5,6 +5,12 @@
 [German Version](#german-version)
 [English Version](#english-version)
 
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/9fd2143a-f4e3-4500-9e73-cd215e63539d" />
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/8c45e8ce-7a6c-47ce-a43d-04043346fad1" />
+
+
+**_(you might need to put it on FULLSCREEN so you can press the button for starting the simulation)_**
+
 # German Version:
 
 ## Überblick
